@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Por mis pistolas</title>
+    <originaltitle>Cantinflas - ¡Por mis... pistolas!</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.800000</value>
+            <votes>243</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.100000</value>
+            <votes>7</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Fidencio Borer, un boticario en una aldea en la frontera norte de México descubre algún título antiguo de una mina en Arizona y decide reclamarlos. Tratar de cruzar la frontera es un guardia de frontera interceptado exagerando en la línea del deber. En el camino es capturado por una tribu de Apaches y está a punto de ser quemado vivo, pero gracias al Caballo de Cabeza Grande Mentir con dolor de muelas y aprende que el prisionero puede sanar, ordenó su liberación a condición de que la cura. Fidencio tomaría el volante y obtendría la eterna amistad del jefe apache.</plot>
+    <tagline></tagline>
+    <runtime>123</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/gdQpJ5ppDDEOWIZkQGJJ9uX8WZq.jpg">http://image.tmdb.org/t/p/original/gdQpJ5ppDDEOWIZkQGJJ9uX8WZq.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/lx3Rh4eK9js9v0JKMFyDIp5o7b4.jpg">http://image.tmdb.org/t/p/original/lx3Rh4eK9js9v0JKMFyDIp5o7b4.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/i8EG2nUnDEfLIxZfN1Bjg7ljxa4.jpg">http://image.tmdb.org/t/p/original/i8EG2nUnDEfLIxZfN1Bjg7ljxa4.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/abcS3Ds99aATftpqsQczRjsWr9t.jpg">http://image.tmdb.org/t/p/original/abcS3Ds99aATftpqsQczRjsWr9t.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/jluzFYu2Yh808USQaGaLUz5sxuE.jpg">http://image.tmdb.org/t/p/original/jluzFYu2Yh808USQaGaLUz5sxuE.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/aMhhebsLLfAMof1KjYL8URM1EcO.jpg">http://image.tmdb.org/t/p/original/aMhhebsLLfAMof1KjYL8URM1EcO.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/jEZTdVnKSUpyb3zAYQl5xyRDWHY.jpg">http://image.tmdb.org/t/p/original/jEZTdVnKSUpyb3zAYQl5xyRDWHY.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/sQToHdoJGLjiigpqHA53HU9GYTC.jpg">http://image.tmdb.org/t/p/original/sQToHdoJGLjiigpqHA53HU9GYTC.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/a4wgLzdReexvwkESXwE7BnjsYLA.jpg">http://image.tmdb.org/t/p/original/a4wgLzdReexvwkESXwE7BnjsYLA.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0063446</id>
+    <uniqueid type="imdb" default="true">tt0063446</uniqueid>
+    <uniqueid type="tmdb">41294</uniqueid>
+    <genre>Aventura</genre>
+    <genre>Comedia</genre>
+    <genre>Western</genre>
+    <country>Mexico</country>
+    <credits>Marco Antonio Almazan</credits>
+    <credits>Cantinflas</credits>
+    <director>Miguel M. Delgado</director>
+    <premiered>1968-08-21</premiered>
+    <year>1968</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Posa Films</studio>
+    <trailer></trailer>
+    <actor>
+        <name>Cantinflas</name>
+        <role>Fidencio Barrenillo</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/jGPFk48OwwaX4VzDd0Ne9vcP6kC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Isela Vega</name>
+        <role>Lupita Sanchez</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/5varp4qcQUsFSUtrfYxGrToLDwe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Gloria Coral</name>
+        <role>Winona</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Quintín Bulnes</name>
+        <role>Tommy Bernard</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/9uRQyW9bEvq8BoNpFY6hS5TKeS0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Rhea Frichina</name>
+        <role>Katie (as Rhea)</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos Cardán</name>
+        <role>Frank</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ivan J. Rado</name>
+        <role>Pat O&apos;Connor (as Jorge Rado)</role>
+        <order>6</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Alfonso Mejía</name>
+        <role>Pablo Sanchez</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/3qaxUzQ0XNUsUURyVO0MAIb2Tjy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Manuel Alvarado</name>
+        <role>Don Serapio Sanchez</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>John Kelly</name>
+        <role>Jim - Sheriff</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eduardo Alcaraz</name>
+        <role>Don Chuchito</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/xPyfsX3ESSULGQXwdpgnj12xLj9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Agustín Isunza</name>
+        <role>Don Panfilo</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Carlos F. Pouliot</name>
+        <role>Agente fronterizo</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Manuel Vergara &apos;Manver&apos;</name>
+        <role>Gran jefe caballo recostado</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gregorio Casal</name>
+        <role>Pedro Sanchez</role>
+        <order>14</order>
+        <thumb>http://image.tmdb.org/t/p/original/nFtnclfqOBDMqUIZJLn2WHz5K4Y.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ricardo Carrión</name>
+        <role>Willy</role>
+        <order>15</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Héctor Carrión</name>
+        <role>Jimmy</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Farnesio de Bernal</name>
+        <role>Cantinero</role>
+        <order>17</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramón Menéndez</name>
+        <role>Johnny</role>
+        <order>18</order>
+        <thumb>http://image.tmdb.org/t/p/original/pKPvD6TpDkHgQMgaYPFnFcUNtN7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alberto Catalá</name>
+        <role>Pianista</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ramiro Orci</name>
+        <role>Villano</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Juan Garza</name>
+        <role>Pistolero</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Pedro Galván</name>
+        <role>(uncredited)</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Arturo Castro &apos;Bigotón&apos;</name>
+        <role>(uncredited)</role>
+        <order>23</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Torvay</name>
+        <role>(uncredited)</role>
+        <order>24</order>
+        <thumb>http://image.tmdb.org/t/p/original/A5s0VGXCnVQsym4QaZkwyh3psvc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Arturo Silva</name>
+        <role>(uncredited)</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>José Loza</name>
+        <role>(uncredited)</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Salvador Lozano</name>
+        <role>(uncredited)</role>
+        <order>27</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:20:11</dateadded>
+</movie>

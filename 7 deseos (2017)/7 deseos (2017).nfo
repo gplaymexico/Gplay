@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Siete deseos</title>
+    <originaltitle>Wish Upon</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>5.000000</value>
+            <votes>15390</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.400000</value>
+            <votes>725</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cuando el padre de Clare Shannon le regala una misteriosa caja de música, ella se sorprende al descubrir que todos sus deseos comienzan a volverse realidad. Su felicidad se transforma gradualmente en terror cuando se da cuenta que cada deseo que pide tiene un precio terrible y sangriento.</plot>
+    <tagline>Be careful what you wish for</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg">http://image.tmdb.org/t/p/original/u0vnocj57vJt5DHoBEqUOD1G4SU.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/6hgVyRZPWKnVdKU2ZbD3aGyrK9i.jpg">http://image.tmdb.org/t/p/original/6hgVyRZPWKnVdKU2ZbD3aGyrK9i.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/2jaEKxk3mUBRLcA5Fo8IQqJMgZs.jpg">http://image.tmdb.org/t/p/original/2jaEKxk3mUBRLcA5Fo8IQqJMgZs.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/vd47DXKYq1ThlVtu2ZUaouw9ooM.jpg">http://image.tmdb.org/t/p/original/vd47DXKYq1ThlVtu2ZUaouw9ooM.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/dbvCGLcrS2VQ68UTkqOIdB5I8x8.jpg">http://image.tmdb.org/t/p/original/dbvCGLcrS2VQ68UTkqOIdB5I8x8.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/lhxevk2qLRATEnYHC0hZXl7kGX.jpg">http://image.tmdb.org/t/p/original/lhxevk2qLRATEnYHC0hZXl7kGX.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/uK4A6FLqlkMBvDJFeJ45SARHAj.jpg">http://image.tmdb.org/t/p/original/uK4A6FLqlkMBvDJFeJ45SARHAj.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/l0dvARJQ6xZeVPhxSS5EYibYGBR.jpg">http://image.tmdb.org/t/p/original/l0dvARJQ6xZeVPhxSS5EYibYGBR.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/eeu4kGYmXlLZpXyBje8b5cPQKVF.jpg">http://image.tmdb.org/t/p/original/eeu4kGYmXlLZpXyBje8b5cPQKVF.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/rYpOaLb908aDspCuaa1o7nn5Bf.jpg">http://image.tmdb.org/t/p/original/rYpOaLb908aDspCuaa1o7nn5Bf.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/oGI0CBhY6ieAfvnD7vyXFpFz9kd.jpg">http://image.tmdb.org/t/p/original/oGI0CBhY6ieAfvnD7vyXFpFz9kd.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/2Y7ZzaguGc5bvLgWN5Voo7OmAaG.jpg">http://image.tmdb.org/t/p/original/2Y7ZzaguGc5bvLgWN5Voo7OmAaG.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/rVr3oplEu8LsBL5dOjSCYXkV4gb.jpg">http://image.tmdb.org/t/p/original/rVr3oplEu8LsBL5dOjSCYXkV4gb.jpg</thumb>
+    </fanart>
+    <mpaa>Rated PG-13</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5322012</id>
+    <uniqueid type="imdb" default="true">tt5322012</uniqueid>
+    <uniqueid type="tmdb">440597</uniqueid>
+    <genre>Suspense</genre>
+    <genre>Terror</genre>
+    <genre>Fantasía</genre>
+    <country>Canada</country>
+    <credits>Barbara Marshall</credits>
+    <director>John R. Leonetti</director>
+    <premiered>2017-07-07</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Orion Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2TlcxQdK0og</trailer>
+    <actor>
+        <name>Joey King</name>
+        <role>Clare Shannon</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/Al8fXl18U4AwYP4wMVkHovfXk5n.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Phillippe</name>
+        <role>Jonathan Shannon</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/8MlC0rqhMpDxnfFjmw2DKOhdVpB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ki Hong Lee</name>
+        <role>Ryan Hui</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/8QodPxf0yrBUzG0ZIVIPXJ4MgdA.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mitchell Slaggert</name>
+        <role>Paul Middlebrook</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/q7RpLg0306GG6EpfvAswdP6e9gy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shannon Purser</name>
+        <role>June Acosta</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/zI5C3e0Rk5GjIdP7S4Dfde8R12N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sydney Park</name>
+        <role>Meredith McNeil</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/qvMf5dLoBxgpECC9xlxVrwAL3OG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Elisabeth Röhm</name>
+        <role>Johanna Shannon</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/67qIdPzAY5XrK895EyUpJI2QF8N.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Josephine Langford</name>
+        <role>Darcie Chapman</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/hZ1x6ovtUdAZbmVDqwQVXXUdw9U.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alexander Nunez</name>
+        <role>Tyler Manguso</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Daniela Barbosa</name>
+        <role>Lola Sanchez</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/tZ9tAE5CERPSIbhLJPvbjV0J4DB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kevin Hanchard</name>
+        <role>Carl Morris</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/ukSbTT2snXQEDKhe8JjEUOAwZAC.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sherilyn Fenn</name>
+        <role>Mrs. Deluca</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/5V1MClOKmMzlfna6fnCqsWkzQvw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Raegan Revord</name>
+        <role>Young Claire</role>
+        <order>12</order>
+        <thumb>http://image.tmdb.org/t/p/original/d0NQHZDIKktnHE5lMbDp3ngbqCr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alice Lee</name>
+        <role>Gina</role>
+        <order>13</order>
+        <thumb>http://image.tmdb.org/t/p/original/i3AzkRRlhYYngJs3p7I2n3FAUqe.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victor Sutton</name>
+        <role>Uncle August</role>
+        <order>14</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Albert Chung</name>
+        <role>Roland Moon</role>
+        <order>15</order>
+        <thumb>http://image.tmdb.org/t/p/original/qgCjXse2GdnwEYYl9dOlqJD6FcS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michelle Alexander</name>
+        <role>House Manager</role>
+        <order>16</order>
+        <thumb>http://image.tmdb.org/t/p/original/vZsYIu2qu22N4sicb1Shxr89YP2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sean Jones</name>
+        <role>Highschool Student</role>
+        <order>17</order>
+        <thumb>http://image.tmdb.org/t/p/original/aQP8a4iVUwShbZWwb9DXiCVkU8d.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Natalie Prinzen-Klages</name>
+        <role>Twin #1</role>
+        <order>18</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jerry O&apos;Connell</name>
+        <role>Previous Owner / Victim (uncredited)</role>
+        <order>19</order>
+        <thumb>http://image.tmdb.org/t/p/original/4WkOu9MUuPylWv3G5AFEIzvjKSx.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:44</dateadded>
+</movie>

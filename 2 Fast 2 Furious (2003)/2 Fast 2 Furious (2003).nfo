@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Rápido y Furioso 2</title>
+    <originaltitle>2 Fast 2 Furious</originaltitle>
+    <sorttitle>Rápido y furioso 2</sorttitle>
+    <ratings>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.300000</value>
+            <votes>3904</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>El ex policía Brian O&apos;Conner está llamado a acabar con un criminal peligroso y recluta la ayuda de un ex amigo de la infancia y corredor de la calle que tiene la oportunidad de redimirse.</plot>
+    <tagline>¿Qué tan rápido lo quieres?</tagline>
+    <runtime>107</runtime>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/uv63yAGg1zETAs1XQsOQpava87l.jpg">http://image.tmdb.org/t/p/original/uv63yAGg1zETAs1XQsOQpava87l.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/mCkqJf4ijbNoBWvJ0RTWZJuhJUA.jpg">http://image.tmdb.org/t/p/original/mCkqJf4ijbNoBWvJ0RTWZJuhJUA.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg">http://image.tmdb.org/t/p/original/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/oLOevFZn6shjcrwK8E5nk2wyCdd.jpg">http://image.tmdb.org/t/p/original/oLOevFZn6shjcrwK8E5nk2wyCdd.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/mCuYpQfqeCmd3oPRqbpCSOQBlLQ.jpg">http://image.tmdb.org/t/p/original/mCuYpQfqeCmd3oPRqbpCSOQBlLQ.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/pJc9gB6TnahMF2Kiwygwkxsbeoz.jpg">http://image.tmdb.org/t/p/original/pJc9gB6TnahMF2Kiwygwkxsbeoz.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/j4qGBWlb5SrusoKSupjkxaW5D5h.jpg">http://image.tmdb.org/t/p/original/j4qGBWlb5SrusoKSupjkxaW5D5h.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/pxsrZMGyfBAH2xFQtdYUqvSdkkp.jpg">http://image.tmdb.org/t/p/original/pxsrZMGyfBAH2xFQtdYUqvSdkkp.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/2kZ2pAiVmhTC7UQGNK0INrjnx6M.jpg">http://image.tmdb.org/t/p/original/2kZ2pAiVmhTC7UQGNK0INrjnx6M.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/zQdytnqfsWKJlqazqfMBL2L7aql.jpg">http://image.tmdb.org/t/p/original/zQdytnqfsWKJlqazqfMBL2L7aql.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/ef794mtjKkBqjlkiybqBcidkxc6.jpg">http://image.tmdb.org/t/p/original/ef794mtjKkBqjlkiybqBcidkxc6.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/4JkdZGEgRZ7BHQDX0reIMePgiYP.jpg">http://image.tmdb.org/t/p/original/4JkdZGEgRZ7BHQDX0reIMePgiYP.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/yBxdSc9noWHBdhSDlx8KsA1WYhi.jpg">http://image.tmdb.org/t/p/original/yBxdSc9noWHBdhSDlx8KsA1WYhi.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/x2F7PgvJN6GV0exH5ZJmTxvN7E5.jpg">http://image.tmdb.org/t/p/original/x2F7PgvJN6GV0exH5ZJmTxvN7E5.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/zlKbKK7jC0BSo8R15pJeRtU0UIw.jpg">http://image.tmdb.org/t/p/original/zlKbKK7jC0BSo8R15pJeRtU0UIw.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/nprmMDhkAR0ty4KEU9CkVyFUclE.jpg">http://image.tmdb.org/t/p/original/nprmMDhkAR0ty4KEU9CkVyFUclE.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/nKHnc0eD2phar4p9GERIFJ3Lk9F.jpg">http://image.tmdb.org/t/p/original/nKHnc0eD2phar4p9GERIFJ3Lk9F.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/ej5A1oCslNQ8G44Vbp1bL4NQq7G.jpg">http://image.tmdb.org/t/p/original/ej5A1oCslNQ8G44Vbp1bL4NQq7G.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/ngreIz9G6c4mcDMFkhEoVm1fA24.jpg">http://image.tmdb.org/t/p/original/ngreIz9G6c4mcDMFkhEoVm1fA24.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/21rSeu9QtJcsWtocozMe3B87s8D.jpg">http://image.tmdb.org/t/p/original/21rSeu9QtJcsWtocozMe3B87s8D.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/zF0FyC5GWBl7CEn3MV8jvpCMMbn.jpg">http://image.tmdb.org/t/p/original/zF0FyC5GWBl7CEn3MV8jvpCMMbn.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/pGfCiqrr0wwz2NpDXLSQXfgAwnY.jpg">http://image.tmdb.org/t/p/original/pGfCiqrr0wwz2NpDXLSQXfgAwnY.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/lSbf3A8cHcqhJQSkbFP9dtR3Nve.jpg">http://image.tmdb.org/t/p/original/lSbf3A8cHcqhJQSkbFP9dtR3Nve.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/6SpYwOD2dNGIMwtp9B8Spfm1Wze.jpg">http://image.tmdb.org/t/p/original/6SpYwOD2dNGIMwtp9B8Spfm1Wze.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/iIkvkkdKVvErt12Hpn1jeqNBAKq.jpg">http://image.tmdb.org/t/p/original/iIkvkkdKVvErt12Hpn1jeqNBAKq.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/1DAbpKhAgmHOxrHDigByH9bIJ85.jpg">http://image.tmdb.org/t/p/original/1DAbpKhAgmHOxrHDigByH9bIJ85.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/tS6wC49axH2OKqvhVjLXexAedra.jpg">http://image.tmdb.org/t/p/original/tS6wC49axH2OKqvhVjLXexAedra.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/z49v7pB1IgExUHv1Nl46wm95PR6.jpg">http://image.tmdb.org/t/p/original/z49v7pB1IgExUHv1Nl46wm95PR6.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/rLuXH8wZ693IcdyzTGASF3lTIkX.jpg">http://image.tmdb.org/t/p/original/rLuXH8wZ693IcdyzTGASF3lTIkX.jpg</thumb>
+    <thumb aspect="set.poster" preview="http://image.tmdb.org/t/p/w500/hCZbA0puDW5PespEMVDmcbpilmk.jpg">http://image.tmdb.org/t/p/original/hCZbA0puDW5PespEMVDmcbpilmk.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg">http://image.tmdb.org/t/p/original/z5A5W3WYJc3UVEWljSGwdjDgQ0j.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/3gp744RzKvFB0X5Nbc2UeHW3mX2.jpg">http://image.tmdb.org/t/p/original/3gp744RzKvFB0X5Nbc2UeHW3mX2.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/pRxz33WtDEZm6KXNFNNa2amaVZY.jpg">http://image.tmdb.org/t/p/original/pRxz33WtDEZm6KXNFNNa2amaVZY.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/1oLiaKWT3XbZ7LUTlmqRkCrww08.jpg">http://image.tmdb.org/t/p/original/1oLiaKWT3XbZ7LUTlmqRkCrww08.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/nU2jYwbXNzWmjQkTjMpQyhdeBeP.jpg">http://image.tmdb.org/t/p/original/nU2jYwbXNzWmjQkTjMpQyhdeBeP.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/mZIFtg3qa1V3mufSrOhDDicNEB8.jpg">http://image.tmdb.org/t/p/original/mZIFtg3qa1V3mufSrOhDDicNEB8.jpg</thumb>
+    <thumb aspect="set.fanart" preview="http://image.tmdb.org/t/p/w500/bA4sRmfCbD8hrXy2kmcue5TCXUq.jpg">http://image.tmdb.org/t/p/original/bA4sRmfCbD8hrXy2kmcue5TCXUq.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/hZVcmztCVo510FhBXyLqStiTAce.jpg">http://image.tmdb.org/t/p/original/hZVcmztCVo510FhBXyLqStiTAce.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/osgUUpwst1TEaSDTBrrTE6KuCbW.jpg">http://image.tmdb.org/t/p/original/osgUUpwst1TEaSDTBrrTE6KuCbW.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/2o56g1Luerczyo5L2D7DSwaMlgk.jpg">http://image.tmdb.org/t/p/original/2o56g1Luerczyo5L2D7DSwaMlgk.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/u1Snfl40rXmAJNiMyZUczUyFVuf.jpg">http://image.tmdb.org/t/p/original/u1Snfl40rXmAJNiMyZUczUyFVuf.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/qlowTCljaoXw0ABJIajDDKh8IlJ.jpg">http://image.tmdb.org/t/p/original/qlowTCljaoXw0ABJIajDDKh8IlJ.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/4Vw3lULMAByvjHxostNgNkTi8Sf.jpg">http://image.tmdb.org/t/p/original/4Vw3lULMAByvjHxostNgNkTi8Sf.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/uOE9ZhJQnb3RdEpx1WpbXcrbM1O.jpg">http://image.tmdb.org/t/p/original/uOE9ZhJQnb3RdEpx1WpbXcrbM1O.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/dfxPmgSzSx7qb0nw8AxSlcZhqCl.jpg">http://image.tmdb.org/t/p/original/dfxPmgSzSx7qb0nw8AxSlcZhqCl.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/pZLx8IeUwgZdWSlfl1fLHiBUuXc.jpg">http://image.tmdb.org/t/p/original/pZLx8IeUwgZdWSlfl1fLHiBUuXc.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/skLU1WeN4GO9ydjX1CSXEh4ZTxS.jpg">http://image.tmdb.org/t/p/original/skLU1WeN4GO9ydjX1CSXEh4ZTxS.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/iCByoA9L9yjcL93qr2M7fiJhfYN.jpg">http://image.tmdb.org/t/p/original/iCByoA9L9yjcL93qr2M7fiJhfYN.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/3QVMzVFr8X4oNX2HOrxXKEYxLNS.jpg">http://image.tmdb.org/t/p/original/3QVMzVFr8X4oNX2HOrxXKEYxLNS.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/giRFLy77e25qr1C9widvNZ3pbxl.jpg">http://image.tmdb.org/t/p/original/giRFLy77e25qr1C9widvNZ3pbxl.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/tvbUs8RpdoarzLOWabg0IgqWwDY.jpg">http://image.tmdb.org/t/p/original/tvbUs8RpdoarzLOWabg0IgqWwDY.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/9IpbseUviUiLdnKMoOixdeWp6h6.jpg">http://image.tmdb.org/t/p/original/9IpbseUviUiLdnKMoOixdeWp6h6.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ldkW7n7mIvfEN8jgFmS0PELFZUV.jpg">http://image.tmdb.org/t/p/original/ldkW7n7mIvfEN8jgFmS0PELFZUV.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/bdXtyfmSZUhU26vsFpexzw7SCe1.jpg">http://image.tmdb.org/t/p/original/bdXtyfmSZUhU26vsFpexzw7SCe1.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/rU8zzkxYigYGDhrykysbutlYFtz.jpg">http://image.tmdb.org/t/p/original/rU8zzkxYigYGDhrykysbutlYFtz.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/tN0dBEP8f2qhEJ06yTKBzvF31qK.jpg">http://image.tmdb.org/t/p/original/tN0dBEP8f2qhEJ06yTKBzvF31qK.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/sN9Qy1TdH9CRZ9fYo539CQtHNzn.jpg">http://image.tmdb.org/t/p/original/sN9Qy1TdH9CRZ9fYo539CQtHNzn.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/6CPcJtRZRcXRHlM6AypYgxQ8OxE.jpg">http://image.tmdb.org/t/p/original/6CPcJtRZRcXRHlM6AypYgxQ8OxE.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/mx9GbHYHAb3uQVdRkRbX9G8W0qA.jpg">http://image.tmdb.org/t/p/original/mx9GbHYHAb3uQVdRkRbX9G8W0qA.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ega83c17njW6Afh8YOdDplylGai.jpg">http://image.tmdb.org/t/p/original/ega83c17njW6Afh8YOdDplylGai.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/zzobKk30Okl0jAtnrfMLzJfkdN6.jpg">http://image.tmdb.org/t/p/original/zzobKk30Okl0jAtnrfMLzJfkdN6.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/teEKGIZC25oJBQHXQwsGBMjW2bN.jpg">http://image.tmdb.org/t/p/original/teEKGIZC25oJBQHXQwsGBMjW2bN.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg">http://image.tmdb.org/t/p/original/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/90ooE5SbUEO0OVJHewNO7pgySb6.jpg">http://image.tmdb.org/t/p/original/90ooE5SbUEO0OVJHewNO7pgySb6.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/9DLDILAjoeddBxNJZtBDbtVuRls.jpg">http://image.tmdb.org/t/p/original/9DLDILAjoeddBxNJZtBDbtVuRls.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/911LypVOfeIYCVmpFWJW0NpjIXG.jpg">http://image.tmdb.org/t/p/original/911LypVOfeIYCVmpFWJW0NpjIXG.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/8RkLHFm2PK4PO5W0WZA5LMXLZBz.jpg">http://image.tmdb.org/t/p/original/8RkLHFm2PK4PO5W0WZA5LMXLZBz.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/xvNOnVYmtkevs1kby3X1rQXb2iU.jpg">http://image.tmdb.org/t/p/original/xvNOnVYmtkevs1kby3X1rQXb2iU.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/yIg8L8J7UFfKGCtoWDH7QTevs6C.jpg">http://image.tmdb.org/t/p/original/yIg8L8J7UFfKGCtoWDH7QTevs6C.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/tmDSqnECtqOyvJX2CCjNbXoMh1a.jpg">http://image.tmdb.org/t/p/original/tmDSqnECtqOyvJX2CCjNbXoMh1a.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/hAbMavAB2KmGkELODFJrFAbK2JH.jpg">http://image.tmdb.org/t/p/original/hAbMavAB2KmGkELODFJrFAbK2JH.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/jATYupa2zNMHvVnWURTt7V2suVD.jpg">http://image.tmdb.org/t/p/original/jATYupa2zNMHvVnWURTt7V2suVD.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/af3IIXOePZ8qS7RVgAuQ4sYRkr2.jpg">http://image.tmdb.org/t/p/original/af3IIXOePZ8qS7RVgAuQ4sYRkr2.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/uMbDOBW5zp7tuCEIozYWCJAMbrz.jpg">http://image.tmdb.org/t/p/original/uMbDOBW5zp7tuCEIozYWCJAMbrz.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/vwjaZpG1UOH7stVt4uz5FEos4nM.jpg">http://image.tmdb.org/t/p/original/vwjaZpG1UOH7stVt4uz5FEos4nM.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/hvdkz6OjUdgMhYJRmI2YKu9ItHY.jpg">http://image.tmdb.org/t/p/original/hvdkz6OjUdgMhYJRmI2YKu9ItHY.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/pFdwcpvEx0Qd2ddGXDwVOPrCiIG.jpg">http://image.tmdb.org/t/p/original/pFdwcpvEx0Qd2ddGXDwVOPrCiIG.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/vZWbkdCN4qqHnkNy45WaxPe3Oay.jpg">http://image.tmdb.org/t/p/original/vZWbkdCN4qqHnkNy45WaxPe3Oay.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/1OyOjIufmGBXIcGryCFXpKzEfPr.jpg">http://image.tmdb.org/t/p/original/1OyOjIufmGBXIcGryCFXpKzEfPr.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/u66sqDiS2mSwk4G2rRBNYAYA9uR.jpg">http://image.tmdb.org/t/p/original/u66sqDiS2mSwk4G2rRBNYAYA9uR.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/6US5P0l67pAalRQy2abVFE79lOd.jpg">http://image.tmdb.org/t/p/original/6US5P0l67pAalRQy2abVFE79lOd.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/j6wu8ragYzRxQxDtYUo9hwcpdQ6.jpg">http://image.tmdb.org/t/p/original/j6wu8ragYzRxQxDtYUo9hwcpdQ6.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/7Zc0ubgNke1pGKyQjews7yMD0Jb.jpg">http://image.tmdb.org/t/p/original/7Zc0ubgNke1pGKyQjews7yMD0Jb.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/iC88J1OoYm8yVsSDrLJcNvb45O5.jpg">http://image.tmdb.org/t/p/original/iC88J1OoYm8yVsSDrLJcNvb45O5.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/p7WpVtvjMIKlK37qiGHzLBB3HKH.jpg">http://image.tmdb.org/t/p/original/p7WpVtvjMIKlK37qiGHzLBB3HKH.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/vsSf0Z2iMFMMgJ2nFcSKgS2o3lq.jpg">http://image.tmdb.org/t/p/original/vsSf0Z2iMFMMgJ2nFcSKgS2o3lq.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt0322259</id>
+    <uniqueid type="imdb" default="true">tt0322259</uniqueid>
+    <uniqueid type="tmdb">584</uniqueid>
+    <genre>Acción</genre>
+    <genre>Crimen</genre>
+    <genre>Suspense</genre>
+    <country>United States of America</country>
+    <set>
+        <name>Rápido y furioso - Colección</name>
+        <overview>Películas de acción basadas en carreras ilegales y robos.</overview>
+    </set>
+    <credits>Michael Brandt</credits>
+    <credits>Derek Haas</credits>
+    <director>John Singleton</director>
+    <premiered>2003-06-05</premiered>
+    <year>2003</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Ardustry Entertainment</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZZGkV_xWGw4</trailer>
+    <actor>
+        <name>Paul Walker</name>
+        <role>Brian O&apos;Conner</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/uBVONfPHpc2ZYxGpPi99CauRnhr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tyrese Gibson</name>
+        <role>Roman Pearce</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/a3tyF7QXgeEH0QuEuIzNZZ8oLNS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Mendes</name>
+        <role>Monica Fuentes</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/6JoVMpn0CcZwb6JK7XW2E6ntU52.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cole Hauser</name>
+        <role>Carter Verone</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/2izzcOrZpt22ObHjSNq3qRhrGHu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ludacris</name>
+        <role>Tej Parker</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/xLfq9wFO6dtYuUK96hbJ8I8EKFw.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Remar</name>
+        <role>Agent Markham</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/AeSuQlBclvWqztlpkf9nIhvvhsc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Devon Aoki</name>
+        <role>Suki</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/nc3RtABAANd0bz5nYDpEfo4mV7b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Thom Barry</name>
+        <role>Agent Bilkins</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/AhUa78UoZ5oGk5kWiatnDaPxSnO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Amaury Nolasco</name>
+        <role>Orange Julius</role>
+        <order>8</order>
+        <thumb>http://image.tmdb.org/t/p/original/tFH2iQmCIARuPJwjqcw7STwLeEr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Michael Ealy</name>
+        <role>Slap Jack</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/oqzMgyxyZUjE8kTpjHhQ6YlMPov.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jin Au-Yeung</name>
+        <role>Jimmy</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/kQIGxSJSAcc3zK37zRCGuhxdNmL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Boone Junior</name>
+        <role>Detective Whitworth</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/riibKDljUzdSfIZygymhKx9yNPx.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mo Gallini</name>
+        <role>Enrique</role>
+        <order>12</order>
+        <thumb>http://image.tmdb.org/t/p/original/fkc5N30a7ZvZkCJEnnqh24uQwDN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Roberto &apos;Sanz&apos; Sanchez</name>
+        <role>Roberto</role>
+        <order>13</order>
+        <thumb>http://image.tmdb.org/t/p/original/jwErmBrXcm8Pnevojn7Q7hUnYuG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Cenatiempo</name>
+        <role>Korpi</role>
+        <order>14</order>
+        <thumb>http://image.tmdb.org/t/p/original/tLGNdbuunOiSJvUAde59h5zUNMm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eric Etebari</name>
+        <role>Darden</role>
+        <order>15</order>
+        <thumb>http://image.tmdb.org/t/p/original/60JfByfxidkx9YUI01y76njwAoB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Neal H. Moritz</name>
+        <role>Swerving Cop</role>
+        <order>16</order>
+        <thumb>http://image.tmdb.org/t/p/original/cNcsEYmoS4niCz3UkVAA09dUIob.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward Finlay</name>
+        <role>Agent Dunn</role>
+        <order>17</order>
+        <thumb>http://image.tmdb.org/t/p/original/cHgCOdSLSvjYiKwhycwCH5X4Viu.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Troy Brown</name>
+        <role>Paul Hackett</role>
+        <order>18</order>
+        <thumb>http://image.tmdb.org/t/p/original/7AfBLmiHru3MW6mZELXYWCr0iub.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Corey Michael Eubanks</name>
+        <role>Max Campisi</role>
+        <order>19</order>
+        <thumb>http://image.tmdb.org/t/p/original/kLm0RuB7J5SBnKL8oLoyIBMwL3f.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sammy Maloof</name>
+        <role>Joe Osborne</role>
+        <order>20</order>
+        <thumb>http://image.tmdb.org/t/p/original/pvcSvZnh2XXvRqomGPtBuWMTyav.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Troy Robinson</name>
+        <role>Feliz Vispone</role>
+        <order>21</order>
+        <thumb>http://image.tmdb.org/t/p/original/vvF5gwuAyPtbGXGkNJBrz7cSx5m.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jose Perez</name>
+        <role>Jose</role>
+        <order>22</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Sincerely A. Ward</name>
+        <role>Slap Jack&apos;s Girlfriend</role>
+        <order>23</order>
+        <thumb>http://image.tmdb.org/t/p/original/duWCJi5MjDy1L3jPugI2YN3gMy5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nievecita Dubuque</name>
+        <role>Suki&apos;s Girl</role>
+        <order>24</order>
+        <thumb>http://image.tmdb.org/t/p/original/kiaUUBjLoTXM3zPdtqy77v6SLDs.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tequilla Hill</name>
+        <role>Suki&apos;s Girl</role>
+        <order>25</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Bettina Huffer</name>
+        <role>Suki&apos;s Girl</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phuong Tuyet Vo</name>
+        <role>Suki&apos;s Girl</role>
+        <order>27</order>
+        <thumb>http://image.tmdb.org/t/p/original/gttitIvinxRkhI967dIxYlUkVJD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Felecia Rafield</name>
+        <role>Detective</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mateo Herreros</name>
+        <role>Detective</role>
+        <order>29</order>
+        <thumb>http://image.tmdb.org/t/p/original/vZ2JUzwcxGkdZIY9222o8m9q8ed.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Walter &apos;Duke&apos; Foster</name>
+        <role>Detective</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Zachary L. Mann</name>
+        <role>U.S. Customs Lead Agent</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kerry Rossall</name>
+        <role>Police Chase Cop</role>
+        <order>32</order>
+        <thumb>http://image.tmdb.org/t/p/original/dP6bMcDbeEqYzxW1SS6pznPWgFj.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marc Macaulay</name>
+        <role>Agent</role>
+        <order>33</order>
+        <thumb>http://image.tmdb.org/t/p/original/eSNgzHn7NUX9iAbG1MLV41lqy14.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Cobette Harper</name>
+        <role>Agent</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Limary Agosto</name>
+        <role>Waitress</role>
+        <order>35</order>
+        <thumb>http://image.tmdb.org/t/p/original/oUDDK62MGGeZWrKClz6bAd2GtZ4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tony Bolano</name>
+        <role>Gardener</role>
+        <order>36</order>
+        <thumb>http://image.tmdb.org/t/p/original/kOMSgoo9oJmu9U1S0k2N4Rr1H92.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tara Carroll</name>
+        <role>Seductress</role>
+        <order>37</order>
+        <thumb>http://image.tmdb.org/t/p/original/8WesMhkjPC1Cv0Vh09wQXxiNIwo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marianne M. Arreaga</name>
+        <role>Police Chopper Pilot</role>
+        <order>38</order>
+        <thumb>http://image.tmdb.org/t/p/original/1g86UqiA4UyRFhYg3SMeRdu4mHt.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tamara Jones</name>
+        <role>Customs Technician</role>
+        <order>39</order>
+        <thumb>http://image.tmdb.org/t/p/original/6ghiylhXm8RbsHIrvrCCwAS6jkZ.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-09-10 09:01:12</dateadded>
+</movie>

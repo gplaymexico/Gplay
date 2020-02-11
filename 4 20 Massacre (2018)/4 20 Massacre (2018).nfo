@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>4 20 Masacre</title>
+    <originaltitle>4/20 Massacre</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>3.800000</value>
+            <votes>448</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.200000</value>
+            <votes>6</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Cinco mujeres van de acampada al bosque para celebrar el cumpleaños de una de ellas, pero todo se complica cuando entran a un terreno donde se cultiva marihuana ilegalmente.</plot>
+    <tagline>Inhale. Exhale. Scream.</tagline>
+    <runtime>85</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/mirbK78bE0KBBbMRDU5U8OYmajm.jpg">http://image.tmdb.org/t/p/original/mirbK78bE0KBBbMRDU5U8OYmajm.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/vnRSXsNHMlBoP0MVw8MTAxHlSsU.jpg">http://image.tmdb.org/t/p/original/vnRSXsNHMlBoP0MVw8MTAxHlSsU.jpg</thumb>
+    </fanart>
+    <mpaa>Rated NC-17</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt5946668</id>
+    <uniqueid type="imdb" default="true">tt5946668</uniqueid>
+    <uniqueid type="tmdb">512936</uniqueid>
+    <genre>Terror</genre>
+    <genre>Acción</genre>
+    <credits>Dylan Reynolds</credits>
+    <director>Dylan Reynolds</director>
+    <premiered>2018-04-03</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <trailer></trailer>
+    <actor>
+        <name>Jamie Bernadette</name>
+        <role>Jess</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/hSKDAGunkF2E4btXXEo0ELF8GqY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Vanessa Rose Parker</name>
+        <role>Aubrey</role>
+        <order>2</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Stacey Danger</name>
+        <role>Donna</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/bFkFlWRYNBhgjOdV50CAZwbTvik.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Justine Wachsberger</name>
+        <role>Rachel</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/sJH707TX3TohbXD5uO5n7NEj1sG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Marissa Pistone</name>
+        <role>Michelle</role>
+        <order>5</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Storm</name>
+        <role>Rick</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/hnd9ckfOiUuGSI3KaHqioE5ZtN1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Gregory</name>
+        <role>The Shape</role>
+        <order>7</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mark Schroeder</name>
+        <role>Buddy</role>
+        <order>8</order>
+        <thumb>http://image.tmdb.org/t/p/original/rY4cHA5tnL6RIiP3aSqi92hFZiY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Drew Talbert</name>
+        <role>Dug</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jim Round</name>
+        <role>Roy</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:43</dateadded>
+</movie>

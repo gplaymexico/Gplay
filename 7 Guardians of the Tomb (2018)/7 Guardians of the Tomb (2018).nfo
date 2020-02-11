@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Guardianes de la tumba</title>
+    <originaltitle>Guardians of the Tomb</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.500000</value>
+            <votes>2757</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.100000</value>
+            <votes>88</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un grupo de científicos encuentran la tumba de un emperador de la antigua China del año 200 antes de Cristo. El hallazgo de los restos momificados del regente parece que se va a convertir en el descubrimiento arqueológico del siglo. Sin embargo, con esta expedición, el equipo de científicos desata una pesadilla con más de 2.000 años de antigüedad y deberán hacer frente a un secreto que debería haber seguido oculto y enterrado hasta el fin de los tiempos.</plot>
+    <tagline>Unearth the legend. Unleash the curse.</tagline>
+    <runtime>90</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg">http://image.tmdb.org/t/p/original/ca799tQJwj4lkkQpBdXohlvEtuQ.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/fripROFgjj1fCIYRVM4OMOovLoI.jpg">http://image.tmdb.org/t/p/original/fripROFgjj1fCIYRVM4OMOovLoI.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/nZrJlQCMN9aHZwmL3y0n2TVktkt.jpg">http://image.tmdb.org/t/p/original/nZrJlQCMN9aHZwmL3y0n2TVktkt.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/lBW7Aq7RzsFbrnmn9RCkpd6GbXf.jpg">http://image.tmdb.org/t/p/original/lBW7Aq7RzsFbrnmn9RCkpd6GbXf.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/nbqxQ5vTTbmxrPsNnpd4Lz5fcJ9.jpg">http://image.tmdb.org/t/p/original/nbqxQ5vTTbmxrPsNnpd4Lz5fcJ9.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/nBzf7F1MuREosVayVkVQweKsoEN.jpg">http://image.tmdb.org/t/p/original/nBzf7F1MuREosVayVkVQweKsoEN.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/7ST7ot8GT4VI51mOOr8lH7zaiFT.jpg">http://image.tmdb.org/t/p/original/7ST7ot8GT4VI51mOOr8lH7zaiFT.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/eNbXZZQDCO1TomBNctp9naBDFd3.jpg">http://image.tmdb.org/t/p/original/eNbXZZQDCO1TomBNctp9naBDFd3.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ze3W6xNpHt2VHAdSYavOYLBzmfG.jpg">http://image.tmdb.org/t/p/original/ze3W6xNpHt2VHAdSYavOYLBzmfG.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/6snE050xezxb8EAT5b90sVfrwSn.jpg">http://image.tmdb.org/t/p/original/6snE050xezxb8EAT5b90sVfrwSn.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/9pqaa7fi4HaJACczDoupjZZDV3s.jpg">http://image.tmdb.org/t/p/original/9pqaa7fi4HaJACczDoupjZZDV3s.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/8wX4mg15sMp97LMvK1Gjf6ycVFy.jpg">http://image.tmdb.org/t/p/original/8wX4mg15sMp97LMvK1Gjf6ycVFy.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/2CjY7TiNDKhuI0rk8K0Vq0UvIHZ.jpg">http://image.tmdb.org/t/p/original/2CjY7TiNDKhuI0rk8K0Vq0UvIHZ.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/e1vk3ctz5nEsFN3KbCooJiCPLA6.jpg">http://image.tmdb.org/t/p/original/e1vk3ctz5nEsFN3KbCooJiCPLA6.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/s7CPX6wjP7SPnnRsZUQtiUExv98.jpg">http://image.tmdb.org/t/p/original/s7CPX6wjP7SPnnRsZUQtiUExv98.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/O999BEehQkYAOw3DpwVpNutOwe.jpg">http://image.tmdb.org/t/p/original/O999BEehQkYAOw3DpwVpNutOwe.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/2yua9bNrpDxVZZzk6ZKYrznWHoR.jpg">http://image.tmdb.org/t/p/original/2yua9bNrpDxVZZzk6ZKYrznWHoR.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/fOlsSmzZ4nyriEHIKXPvmwtVjK2.jpg">http://image.tmdb.org/t/p/original/fOlsSmzZ4nyriEHIKXPvmwtVjK2.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/oVHBlxCFqqc8C4TDbNDeBpHIttE.jpg">http://image.tmdb.org/t/p/original/oVHBlxCFqqc8C4TDbNDeBpHIttE.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/jyjYnVWCeU8DBQIpk1htGUdLfqG.jpg">http://image.tmdb.org/t/p/original/jyjYnVWCeU8DBQIpk1htGUdLfqG.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/qq0xhYJNjkJyBr3C6P6dKuFAMdI.jpg">http://image.tmdb.org/t/p/original/qq0xhYJNjkJyBr3C6P6dKuFAMdI.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/yRVMV6vGdtdEQ4EZs1KLTawVp8u.jpg">http://image.tmdb.org/t/p/original/yRVMV6vGdtdEQ4EZs1KLTawVp8u.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/oEnEZKmdfkB72gx353VnTbfsA5V.jpg">http://image.tmdb.org/t/p/original/oEnEZKmdfkB72gx353VnTbfsA5V.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/k0G4pEv0oviSJ2K0U7Vg7x6zRjb.jpg">http://image.tmdb.org/t/p/original/k0G4pEv0oviSJ2K0U7Vg7x6zRjb.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/extR7ZjUoqQO3Tej03Tt0FKEPhR.jpg">http://image.tmdb.org/t/p/original/extR7ZjUoqQO3Tej03Tt0FKEPhR.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/aP8e7GKsYEEthq8ucYQZfhjf6ik.jpg">http://image.tmdb.org/t/p/original/aP8e7GKsYEEthq8ucYQZfhjf6ik.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/gCloP7htZtJ7ZigY3SODG6oKla7.jpg">http://image.tmdb.org/t/p/original/gCloP7htZtJ7ZigY3SODG6oKla7.jpg</thumb>
+    </fanart>
+    <mpaa>Rated PG-13</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4915672</id>
+    <uniqueid type="imdb" default="true">tt4915672</uniqueid>
+    <uniqueid type="tmdb">409582</uniqueid>
+    <genre>Acción</genre>
+    <genre>Aventura</genre>
+    <genre>Terror</genre>
+    <country>Australia</country>
+    <credits>Kimble Rendall</credits>
+    <credits>Paul Staheli</credits>
+    <director>Kimble Rendall</director>
+    <premiered>2018-01-19</premiered>
+    <year>2018</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Grand Canal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Olo-3Wbxte4</trailer>
+    <actor>
+        <name>Li Bingbing</name>
+        <role>Jia</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/hAUy6dsBkDCJspQ3DlqmysFpW6P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kellan Lutz</name>
+        <role>Jack Ridley</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/sNgRpXCVyDesWJReOX2cNa7oijS.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kelsey Grammer</name>
+        <role>Mason</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/8h3ThicYhj6fEMSMtSdzFXrUyx2.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Wu Zun</name>
+        <role>Luke</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/m1CSj3sOX3fxImRMN3jtzEl0M5q.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Stef Dawson</name>
+        <role>Milly Piper</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/jHAd1NwUfl5uYfVj6fi9N1TswDD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Shane Jacobson</name>
+        <role>Gary</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/2MEcL4LjvOF20KgJx34pguzPi27.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan Johnson</name>
+        <role>Ethan</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/xZtxgdvPXzKvAnvye3ZMj35fMUZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jason Chong</name>
+        <role>Chen Xhu</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/b69KUQ7QqeDQ2ZPthULWJ2YfubN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Eva Liu</name>
+        <role>Yin</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yasmin Kassim</name>
+        <role>Lisa</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/gMcvevZoJA7cHE77ba9pPjRPqA4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Draxl</name>
+        <role>Andrew</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/9rDTf5dYGz2xiwSZqRobRgHJUP9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Victoria Liu</name>
+        <role>Concubine</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/1HnqLR8TNw560mdiLN6V6wcpLmk.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christine Milo</name>
+        <role>Emperor&apos;s Courtier</role>
+        <order>12</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:44</dateadded>
+</movie>

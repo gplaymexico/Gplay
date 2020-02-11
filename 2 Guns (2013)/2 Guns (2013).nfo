@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>Armados y Peligrosos</title>
+    <originaltitle>2 Guns</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.700000</value>
+            <votes>183560</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.500000</value>
+            <votes>2428</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un agente de la DEA, Bobby Trench, y un oficial de la Inteligencia Naval, Michael Stigman , consiguen robarle 43 millones de dólares a la mafia. El problema consiste en que en realidad ese dinero no era de la organización criminal, sino de la CIA. Adaptación al cine de una novela gráfica de Steven Grant.</plot>
+    <tagline>Dos armas, un banco.</tagline>
+    <runtime>109</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/30lM3Uvzs6HOG5l4hzhwxYTWgd3.jpg">http://image.tmdb.org/t/p/original/30lM3Uvzs6HOG5l4hzhwxYTWgd3.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ptURGAFktibhk7DEAbMazlmNqWa.jpg">http://image.tmdb.org/t/p/original/ptURGAFktibhk7DEAbMazlmNqWa.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/6bc9TScEkm1JIaxgbdtF8j4D2Nj.jpg">http://image.tmdb.org/t/p/original/6bc9TScEkm1JIaxgbdtF8j4D2Nj.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/1SLJHTAjhxuZAll4iGau7aCOv7a.jpg">http://image.tmdb.org/t/p/original/1SLJHTAjhxuZAll4iGau7aCOv7a.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/kpsgIevHZ4MRfySiDqP3qD3owcO.jpg">http://image.tmdb.org/t/p/original/kpsgIevHZ4MRfySiDqP3qD3owcO.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/XIweajLYpUy1REPrCdRUTl02dc.jpg">http://image.tmdb.org/t/p/original/XIweajLYpUy1REPrCdRUTl02dc.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/5UZISL85XDr9Qnm0QVBmus5SGCm.jpg">http://image.tmdb.org/t/p/original/5UZISL85XDr9Qnm0QVBmus5SGCm.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ltJKMFWaBUZWb0vMQo5Dtaim4JQ.jpg">http://image.tmdb.org/t/p/original/ltJKMFWaBUZWb0vMQo5Dtaim4JQ.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/sIKbPTGGPkQAGiTpOUYAmFJayTF.jpg">http://image.tmdb.org/t/p/original/sIKbPTGGPkQAGiTpOUYAmFJayTF.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/ttmNfzU4PNoyAtwwzsjrIDJuKwI.jpg">http://image.tmdb.org/t/p/original/ttmNfzU4PNoyAtwwzsjrIDJuKwI.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/wYLhXXDL3FZQ3tTHwWvHEUJYRPz.jpg">http://image.tmdb.org/t/p/original/wYLhXXDL3FZQ3tTHwWvHEUJYRPz.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/wZsX7160l5feO646shRx3liMutx.jpg">http://image.tmdb.org/t/p/original/wZsX7160l5feO646shRx3liMutx.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/73lUS8WhDBTl9KUpZlmiiWYAH38.jpg">http://image.tmdb.org/t/p/original/73lUS8WhDBTl9KUpZlmiiWYAH38.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/a0iChedBCvYLGslDOVi1EbVjEN2.jpg">http://image.tmdb.org/t/p/original/a0iChedBCvYLGslDOVi1EbVjEN2.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/dK2HTiYwfm8OcXVdfEPT55fuyVb.jpg">http://image.tmdb.org/t/p/original/dK2HTiYwfm8OcXVdfEPT55fuyVb.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/oCWHk50Rq4UBNGXf20eX7JaXEgO.jpg">http://image.tmdb.org/t/p/original/oCWHk50Rq4UBNGXf20eX7JaXEgO.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/c553Nx5BeqE66nhEDGSl0LN5uX6.jpg">http://image.tmdb.org/t/p/original/c553Nx5BeqE66nhEDGSl0LN5uX6.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/8K2VflPQhTF7p79WC3fvl8E5oxe.jpg">http://image.tmdb.org/t/p/original/8K2VflPQhTF7p79WC3fvl8E5oxe.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/1Aru22f1LsfyMxVSmb3WNT7U3kf.jpg">http://image.tmdb.org/t/p/original/1Aru22f1LsfyMxVSmb3WNT7U3kf.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/aWRt2Hus3yoXm9POw0sf3zezVBo.jpg">http://image.tmdb.org/t/p/original/aWRt2Hus3yoXm9POw0sf3zezVBo.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/c7b10A62GySpUOfywtJGYzxhkU9.jpg">http://image.tmdb.org/t/p/original/c7b10A62GySpUOfywtJGYzxhkU9.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/zY6doHesGZCSMU23bIMEe26isqZ.jpg">http://image.tmdb.org/t/p/original/zY6doHesGZCSMU23bIMEe26isqZ.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/mmSb7ZdXpjocxqYCL4idseVhY4P.jpg">http://image.tmdb.org/t/p/original/mmSb7ZdXpjocxqYCL4idseVhY4P.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/ArQezJLkwHnHzuNOrBomgBAwVlj.jpg">http://image.tmdb.org/t/p/original/ArQezJLkwHnHzuNOrBomgBAwVlj.jpg</thumb>
+    </fanart>
+    <mpaa>Rated R</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt1272878</id>
+    <uniqueid type="imdb" default="true">tt1272878</uniqueid>
+    <uniqueid type="tmdb">136400</uniqueid>
+    <genre>Acción</genre>
+    <genre>Comedia</genre>
+    <genre>Crimen</genre>
+    <country>United States of America</country>
+    <credits>Blake Masters</credits>
+    <director>Baltasar Kormákur</director>
+    <premiered>2013-08-02</premiered>
+    <year>2013</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Universal Pictures</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qnWIR2jFklo</trailer>
+    <actor>
+        <name>Denzel Washington</name>
+        <role>Robert &apos;Bobby&apos; Trench</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/t9arcZbg1nLt8GZt2SkWm227YoK.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Wahlberg</name>
+        <role>Michael &apos;Stig&apos; Stigman</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/z2wJh5n7qZRUE1y9uB8UrivAV2b.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paula Patton</name>
+        <role>Deb</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/l3Tx5cS0S0mSYSxD8zN0Q8Pq0LX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Paxton</name>
+        <role>Earl</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/53Ln1wTC0OCLzBF4HNlwhMXYgOU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fred Ward</name>
+        <role>Admiral Tuwey</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/uIeK4ffPlg6vIl53iImW9ofF0uI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>James Marsden</name>
+        <role>Quince</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/tJK1PbhcJj5cBNqnuFKHtAFPQKz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edward James Olmos</name>
+        <role>Papi Greco</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/i7zKqsFqL5L1HPmAMeSA1xZzlD5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert John Burke</name>
+        <role>Jessup</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/ctVRWqY0KfSBIpaGulJMbhyE3jy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tait Fletcher</name>
+        <role>Mini</role>
+        <order>8</order>
+        <thumb>http://image.tmdb.org/t/p/original/b70bowmWAiXqlSCBXy0IFC1Mcw4.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ambyr Childers</name>
+        <role>Ms. Young</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/boFipGlGLBVQ9xTW69wXzWW6OAD.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Doris Morgado</name>
+        <role>Daisie</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/g2qQLzvqK0kRjlMjAQ56eDKjoUO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Evie Thompson</name>
+        <role>Patsy (Dr. Ken&apos;s Assistant)</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/fMS7hvhTw5TRtC5TbW4JKTxtct1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Azure Parsons</name>
+        <role>Waitress Maggie</role>
+        <order>12</order>
+        <thumb>http://image.tmdb.org/t/p/original/xW0s5zSXqaZb5AOZR20JLuAwIKO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Edgar Arreola</name>
+        <role>Rudy (Papi&apos;s Men)</role>
+        <order>13</order>
+        <thumb>http://image.tmdb.org/t/p/original/pUvpVhpU3c68v6qWE1Vysq1MGQY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Patrick Fischler</name>
+        <role>Dr. Ken</role>
+        <order>14</order>
+        <thumb>http://image.tmdb.org/t/p/original/x7btvLV8RnW5dw9Of1uYRp86E7V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Matthew Cook</name>
+        <role>Thick</role>
+        <order>15</order>
+        <thumb>http://image.tmdb.org/t/p/original/nKsExP9PCRKkRnuHXONBp9V0NpY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Bell</name>
+        <role>Lean</role>
+        <order>16</order>
+        <thumb>http://image.tmdb.org/t/p/original/vLVgOTnJnigcPkm8kYOL6JAv2B9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lindsey G. Smith</name>
+        <role>Gina Corrales</role>
+        <order>17</order>
+        <thumb>http://image.tmdb.org/t/p/original/keL4ago7ud1REGXeiLkG1J0Y9jY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Greg Sproles</name>
+        <role>Chief Lucas</role>
+        <order>18</order>
+        <thumb>http://image.tmdb.org/t/p/original/6rDyGkHkhmOedbhBeVo5zZCYEoL.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Derek Solorsano</name>
+        <role>Ferret Nose Julio</role>
+        <order>19</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kyle Clements</name>
+        <role>Teemo</role>
+        <order>20</order>
+        <thumb>http://image.tmdb.org/t/p/original/yvAz7YZyMEUemDruhZyND2dvZXv.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John McConnell</name>
+        <role>Officer Dave</role>
+        <order>21</order>
+        <thumb>http://image.tmdb.org/t/p/original/gAHxNx9PhT2xVqct6ac61tKFabT.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jack Landry</name>
+        <role>Officer Phil</role>
+        <order>22</order>
+        <thumb>http://image.tmdb.org/t/p/original/dYpcvvdNwnkb4BXRNtdiZAFsu7V.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ritchie Montgomery</name>
+        <role>Chief of Police</role>
+        <order>23</order>
+        <thumb>http://image.tmdb.org/t/p/original/znNRxqrYkOskK3jlm3ftHyAzJDg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Larriviere</name>
+        <role>Bank Manager</role>
+        <order>24</order>
+        <thumb>http://image.tmdb.org/t/p/original/8KdeWeZiM5HDV0K7AZjvJTKwiya.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lucy Faust</name>
+        <role>Scared Woman</role>
+        <order>25</order>
+        <thumb>http://image.tmdb.org/t/p/original/5mpec9zfVfsIp87M8Eb9Rare4Wz.jpg</thumb>
+    </actor>
+    <actor>
+        <name>George Wilson</name>
+        <role>Bank Guard</role>
+        <order>26</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Yohance Myles</name>
+        <role>Lead Agent (FBI Man)</role>
+        <order>27</order>
+        <thumb>http://image.tmdb.org/t/p/original/nfSaENqW1RbjlSg8gGhlNjwlqau.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jesus Jr.</name>
+        <role>Roughneck (Papi&apos;s Men)</role>
+        <order>28</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Samuel Baca-Garcia</name>
+        <role>Javier (Papi&apos;s Son)</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Beasley</name>
+        <role>Hard Case Border Patrol</role>
+        <order>30</order>
+        <thumb>http://image.tmdb.org/t/p/original/mk8jUlzVPUsKSQjHi6ATtaCtb47.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christopher Dempsey</name>
+        <role>Border Guard</role>
+        <order>31</order>
+        <thumb>http://image.tmdb.org/t/p/original/nOX8sCxl0LRFYMkYauWFD0xwaDm.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bill Stinchcomb</name>
+        <role>Uniformed Border Agent</role>
+        <order>32</order>
+        <thumb>http://image.tmdb.org/t/p/original/qBMOG810vg277nsnFneoWAsXGEZ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Adam</name>
+        <role>Navy Firefighter</role>
+        <order>33</order>
+        <thumb>http://image.tmdb.org/t/p/original/u0qp1b3WzcxfjFxgZ6TjReXIQNQ.jpg</thumb>
+    </actor>
+    <actor>
+        <name>David Kency</name>
+        <role>Lead MP (Shore Patrol)</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Gilbert Rosales</name>
+        <role>Skinny Immigrant</role>
+        <order>35</order>
+        <thumb>http://image.tmdb.org/t/p/original/gb60pzm0vP0X56BiHKIEkyg7wRq.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Peter Gabb</name>
+        <role>Doorman</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jason Kirkpatrick</name>
+        <role>Tommy Boy</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Tony Sanford</name>
+        <role>Slim Jay</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Lucky Johnson</name>
+        <role>Tim Corrales</role>
+        <order>39</order>
+        <thumb>http://image.tmdb.org/t/p/original/3LSBn12OMYVWbeE09OGBImUJXAn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Lindsey Gort</name>
+        <role>Waitress Marjorie</role>
+        <order>40</order>
+        <thumb>http://image.tmdb.org/t/p/original/pwZIFiSPltZbspDWEAtSB14Pcae.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Hillel M. Sharman</name>
+        <role>Roughneck #2</role>
+        <order>41</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Aaron Zell</name>
+        <role>Roughneck #3</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Henry Penzi</name>
+        <role>Roughneck #4</role>
+        <order>43</order>
+        <thumb>http://image.tmdb.org/t/p/original/wK5JIVWjoNZV1QUYjCLm6F1n26g.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Bonnie Bentley</name>
+        <role>Admiral&apos;s Assistant</role>
+        <order>44</order>
+        <thumb>http://image.tmdb.org/t/p/original/kJ2ewLmI9RFwFBQhMnJ4gRrCOZE.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:43</dateadded>
+</movie>

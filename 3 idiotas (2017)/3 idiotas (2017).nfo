@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>3 Idiotas</title>
+    <originaltitle>3 Idiotas</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>4.200000</value>
+            <votes>758</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>6.700000</value>
+            <votes>26</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Un conjunto de amigos de siempre van a una aventura salvaje llena de risas, en pos de uno de sus compañeros universitarios más próximos que desaparecieron sin dejar indicio un día ya antes de su gran día de graduación. 5 años tras graduarse de la universidad, Felipe y Beto deciden buscar a Pancho, su amigo perdido hace bastante tiempo y líder incontrovertible de la manada.</plot>
+    <tagline>Dare to be an idiot.</tagline>
+    <runtime>106</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg">http://image.tmdb.org/t/p/original/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/6rq2hP0G5gXyR28Ljh7UcbXSnnd.jpg">http://image.tmdb.org/t/p/original/6rq2hP0G5gXyR28Ljh7UcbXSnnd.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/gCbbDRbLt0KncqWvpFCdWIwCd1v.jpg">http://image.tmdb.org/t/p/original/gCbbDRbLt0KncqWvpFCdWIwCd1v.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/vst3Ut5KI7DlJpxxLz3GtGhjX9b.jpg">http://image.tmdb.org/t/p/original/vst3Ut5KI7DlJpxxLz3GtGhjX9b.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/73icc1rjNGZwuAa9Ife6frwHQnN.jpg">http://image.tmdb.org/t/p/original/73icc1rjNGZwuAa9Ife6frwHQnN.jpg</thumb>
+    </fanart>
+    <mpaa></mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt3685624</id>
+    <uniqueid type="imdb" default="true">tt3685624</uniqueid>
+    <uniqueid type="tmdb">346034</uniqueid>
+    <genre>Familia</genre>
+    <genre>Comedia</genre>
+    <country>Mexico</country>
+    <credits>Mariana Alatriste</credits>
+    <credits>Juan Santiago Huerta</credits>
+    <credits>Bernardo Rugama</credits>
+    <director>Carlos Bolado</director>
+    <premiered>2017-04-02</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>Reencuentro Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8-PP1fJvJ2g</trailer>
+    <actor>
+        <name>Martha Higareda</name>
+        <role>Mariana</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/gj1aE6KgHAotB7VwVkQKITRuaPo.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alfonso Dosal</name>
+        <role>Pancho</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/g4ozdNk84hy4cTcVrjrafEx285C.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Christian Vazquez</name>
+        <role>Felipe</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/lQ9rOjQ23wNuGzD0AiQLL5Lerqf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>German Valdez</name>
+        <role>Beto</role>
+        <order>4</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Vadhir Derbez</name>
+        <role>Isidoro</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/bQkCBpWv8EKxAibLaXGBAIr66BY.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sebastián Zurita</name>
+        <role>Emiliano</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/4byGJUiDWYFN8oXSDsldrollcDi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Paulina Dávila</name>
+        <role>Diana</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/2kRoqJjcQE9V1jHg7wCXuvXbUO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Enrique Singer</name>
+        <role>Don Diego</role>
+        <order>8</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Rodrigo Murray</name>
+        <role>Escalona</role>
+        <order>9</order>
+        <thumb>http://image.tmdb.org/t/p/original/qNUDwOV5TiEcKnugCBMofIIhgvV.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Julio Bekhor</name>
+        <role>Entrevistador 1</role>
+        <order>10</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mauricio Isaac</name>
+        <role>Entrevistador 2</role>
+        <order>11</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Claudia Lizaldi</name>
+        <role>Maestra Molina</role>
+        <order>12</order>
+        <thumb>http://image.tmdb.org/t/p/original/gW446i0mgQPZwyNFi7qACPsSa0Z.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Andrea Ortega-Lee</name>
+        <role>El primo</role>
+        <order>13</order>
+        <thumb></thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:43</dateadded>
+</movie>

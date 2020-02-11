@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<movie>
+    <title>6 días</title>
+    <originaltitle>6 Days</originaltitle>
+    <ratings>
+        <rating name="imdb" max="10">
+            <value>6.200000</value>
+            <votes>14739</votes>
+        </rating>
+        <rating name="themoviedb" max="10" default="true">
+            <value>5.900001</value>
+            <votes>333</votes>
+        </rating>
+    </ratings>
+    <userrating>0</userrating>
+    <top250>0</top250>
+    <outline></outline>
+    <plot>Londres, Inglaterra, abril de 1980. Varios terroristas asaltan la embajada de Irán y toman rehenes. Durante seis días, se mantienen tensas negociaciones mientras las autoridades deciden si debe intervenir un pelotón militar.</plot>
+    <tagline>Frente al terror, una nación mostrará su fortaleza.</tagline>
+    <runtime>95</runtime>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/yRbC0uRj1RDmF0JLon83il2dkR0.jpg">http://image.tmdb.org/t/p/original/yRbC0uRj1RDmF0JLon83il2dkR0.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/esaGmV2Geg7SoKGAW7oitqaNU71.jpg">http://image.tmdb.org/t/p/original/esaGmV2Geg7SoKGAW7oitqaNU71.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/2ZHf7CkExQVNJ6OSOXHLH0e21TX.jpg">http://image.tmdb.org/t/p/original/2ZHf7CkExQVNJ6OSOXHLH0e21TX.jpg</thumb>
+    <thumb aspect="poster" preview="http://image.tmdb.org/t/p/w500/7eoF2FUpPKYj9a94PsLy3FQOzmO.jpg">http://image.tmdb.org/t/p/original/7eoF2FUpPKYj9a94PsLy3FQOzmO.jpg</thumb>
+    <fanart>
+        <thumb preview="http://image.tmdb.org/t/p/w780/qk8iVAEHdx4Rd6hnB7PyVrbvmRS.jpg">http://image.tmdb.org/t/p/original/qk8iVAEHdx4Rd6hnB7PyVrbvmRS.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/aWpr0FM3D4KWHPJr3SRbsKg3Fxo.jpg">http://image.tmdb.org/t/p/original/aWpr0FM3D4KWHPJr3SRbsKg3Fxo.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/lAnqrVXhbYJLFSsrGz6KePDstRZ.jpg">http://image.tmdb.org/t/p/original/lAnqrVXhbYJLFSsrGz6KePDstRZ.jpg</thumb>
+        <thumb preview="http://image.tmdb.org/t/p/w780/kipN9pwk94zRflwoiCHLybgG6qd.jpg">http://image.tmdb.org/t/p/original/kipN9pwk94zRflwoiCHLybgG6qd.jpg</thumb>
+    </fanart>
+    <mpaa>Rated R</mpaa>
+    <playcount>0</playcount>
+    <lastplayed></lastplayed>
+    <id>tt4703048</id>
+    <uniqueid type="imdb" default="true">tt4703048</uniqueid>
+    <uniqueid type="tmdb">347984</uniqueid>
+    <genre>Acción</genre>
+    <genre>Drama</genre>
+    <genre>Historia</genre>
+    <genre>Suspense</genre>
+    <country>New Zealand</country>
+    <credits>Glenn Standring</credits>
+    <director>Toa Fraser</director>
+    <premiered>2017-08-03</premiered>
+    <year>2017</year>
+    <status></status>
+    <code></code>
+    <aired></aired>
+    <studio>XYZ Films</studio>
+    <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OcGUIEz6SHA</trailer>
+    <actor>
+        <name>Jamie Bell</name>
+        <role>LCpl. Rusty Firmin</role>
+        <order>0</order>
+        <thumb>http://image.tmdb.org/t/p/original/7HgepK5YE8u0xrv3lJZjaEoENwl.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Abbie Cornish</name>
+        <role>Kate Adie</role>
+        <order>1</order>
+        <thumb>http://image.tmdb.org/t/p/original/jqF7psT8XVguBpfBTw7axzVDIdi.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Mark Strong</name>
+        <role>Max Vernon</role>
+        <order>2</order>
+        <thumb>http://image.tmdb.org/t/p/original/63AwQg1hz4KQlStZDufhwJdLmT5.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Shaw</name>
+        <role>John Dellow</role>
+        <order>3</order>
+        <thumb>http://image.tmdb.org/t/p/original/b8LhpaQmnaPLaFyK5iHSaK76wBb.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emun Elliott</name>
+        <role>Roy</role>
+        <order>4</order>
+        <thumb>http://image.tmdb.org/t/p/original/A0PGkWHpgbus4t76hKSTqoey8HP.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ben Turner</name>
+        <role>Salim</role>
+        <order>5</order>
+        <thumb>http://image.tmdb.org/t/p/original/6aJkS1riJlBepFCfTxlO4QLkZxn.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Aymen Hamdouchi</name>
+        <role>Faisal</role>
+        <order>6</order>
+        <thumb>http://image.tmdb.org/t/p/original/rwqlYbVbdPUpFhx21jCvZAD6wxX.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Pigott-Smith</name>
+        <role>Home Secretary William Whitelaw</role>
+        <order>7</order>
+        <thumb>http://image.tmdb.org/t/p/original/2LLqdOOGjeine5yoCXzeFpxcPMc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Robert Portal</name>
+        <role>Lt. Col. Mike Rose</role>
+        <order>8</order>
+        <thumb>http://image.tmdb.org/t/p/original/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Garlick</name>
+        <role>LCpl. John Mac</role>
+        <order>9</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Grainger</name>
+        <role>Ray</role>
+        <order>10</order>
+        <thumb>http://image.tmdb.org/t/p/original/d7AwfuXdK09A6bBBqvnpmMtNdUG.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Martin Hancock</name>
+        <role>BBC Cameraman Bill</role>
+        <order>11</order>
+        <thumb>http://image.tmdb.org/t/p/original/dgM78QCzhwi7T8US2GxLytsngke.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Colin Moy</name>
+        <role>Maj. Hector Gullan</role>
+        <order>12</order>
+        <thumb>http://image.tmdb.org/t/p/original/2EjNqj5dzcHX0prekGpkObg0noN.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Toby Leach</name>
+        <role>PC Trevor Lock</role>
+        <order>13</order>
+        <thumb>http://image.tmdb.org/t/p/original/dZUiGjhbtLlayLE6Y2SI0G6NOVO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Xavier Horan</name>
+        <role>SAS Soldier Tom Morrell</role>
+        <order>14</order>
+        <thumb>http://image.tmdb.org/t/p/original/yNdHNB90SXulSRLqbYeZ5JXppqO.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Te Kohe Tuhaka</name>
+        <role>Tak</role>
+        <order>15</order>
+        <thumb>http://image.tmdb.org/t/p/original/t5VYFBCG08Z0l9PBv0coeUnyET0.jpg</thumb>
+    </actor>
+    <actor>
+        <name>William Chubb</name>
+        <role>MI5 Spokesman</role>
+        <order>16</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ronan Vibert</name>
+        <role>MI6 Spokesman</role>
+        <order>17</order>
+        <thumb>http://image.tmdb.org/t/p/original/3mCxRbHuq1aJwrFqLwk3OSdqva9.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Henshaw</name>
+        <role>Metropolitan Police Spokesman</role>
+        <order>18</order>
+        <thumb>http://image.tmdb.org/t/p/original/vs5SJ4LnQeH1akxz0XqhobaaSlB.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Tim Downie</name>
+        <role>Jimmy</role>
+        <order>19</order>
+        <thumb>http://image.tmdb.org/t/p/original/krF4lwZnOJl2SjTPjyPxrZIES6w.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sam Snedden</name>
+        <role>Sim Harris</role>
+        <order>20</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Mia Blake</name>
+        <role>Betty, Max&apos;s Wife</role>
+        <order>21</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Matthew Sunderland</name>
+        <role>Tom Lovett</role>
+        <order>22</order>
+        <thumb>http://image.tmdb.org/t/p/original/37SgPAr5T6RDEo13EK10PyH43sI.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Emma Campbell-Jones</name>
+        <role>Whitelaw&apos;s Aide</role>
+        <order>23</order>
+        <thumb>http://image.tmdb.org/t/p/original/n1WZ6Qu00wjfCfF4MFitYfxsVuc.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Jared Turner</name>
+        <role>Sgt. Tommy Palmer</role>
+        <order>24</order>
+        <thumb>http://image.tmdb.org/t/p/original/1fPiD1Wo6zJtZvTdZiHam2y5EJg.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Calum Gittins</name>
+        <role>Tommo</role>
+        <order>25</order>
+        <thumb>http://image.tmdb.org/t/p/original/1UX1WZ9NkjNDHdKCRRY5xEV8KM1.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ryan O&apos;Kane</name>
+        <role>Snapper</role>
+        <order>26</order>
+        <thumb>http://image.tmdb.org/t/p/original/3tZrnqVYVGahntTg8cS5eGDIy4P.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Fayssal Bazzi</name>
+        <role>Makki</role>
+        <order>27</order>
+        <thumb>http://image.tmdb.org/t/p/original/gM9qAahQjUsJ56BxQfuUqJjdaBU.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Kenneth Collard</name>
+        <role>Clive</role>
+        <order>28</order>
+        <thumb>http://image.tmdb.org/t/p/original/7w29ibbniZoMEkTYVtsxiNSLamf.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Nicholas Boulton</name>
+        <role>Chris Cramer</role>
+        <order>29</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Michael Denkha</name>
+        <role>Mustapha Karkouti</role>
+        <order>30</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scarlett Featherstone</name>
+        <role>Max&apos;s Daughter #1</role>
+        <order>31</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Venice Harris</name>
+        <role>Max&apos;s Daughter #2</role>
+        <order>32</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Marjan Gorgani</name>
+        <role>Lead Interpretor</role>
+        <order>33</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jeff Szusterman</name>
+        <role>Intelligence Translator</role>
+        <order>34</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Phil Peleton</name>
+        <role>Intelligence Officer</role>
+        <order>35</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Kip Chapman</name>
+        <role>Trevor</role>
+        <order>36</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Ajayshri</name>
+        <role>Caretaker</role>
+        <order>37</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Scott Michael Wagstaff</name>
+        <role>PC Walker</role>
+        <order>38</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Brady Powell</name>
+        <role>Irish Policeman</role>
+        <order>39</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Jay Sutherland</name>
+        <role>Policeman #1</role>
+        <order>40</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Joel Beckett</name>
+        <role>Policeman #2</role>
+        <order>41</order>
+        <thumb>http://image.tmdb.org/t/p/original/3RjyIsbudqiUiC21y1qfrbj4P8s.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Alan  McElroy</name>
+        <role>Policeman #3</role>
+        <order>42</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Dominic Hughes</name>
+        <role>Paramedic</role>
+        <order>43</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>David Rumney</name>
+        <role>Signaller</role>
+        <order>44</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Robert Hartley</name>
+        <role>Army Technician</role>
+        <order>45</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Eric Colvin</name>
+        <role>OB Technician</role>
+        <order>46</order>
+        <thumb>http://image.tmdb.org/t/p/original/l5d9FysPN1Pd0DBIg89ia5bqRnr.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Sara Stone</name>
+        <role>Zahra Zomorrodian</role>
+        <order>47</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Margaret Thatcher</name>
+        <role>Herself (archive footage) (uncredited)</role>
+        <order>48</order>
+        <thumb>http://image.tmdb.org/t/p/original/zQQF7mP4biVj1mw0XihZCCtR5Re.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Simon Elrahi</name>
+        <role>Imam (uncredited)</role>
+        <order>49</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Glen Levy</name>
+        <role>Jerry (uncredited)</role>
+        <order>50</order>
+        <thumb>http://image.tmdb.org/t/p/original/mTqbcZ1g6ZHtodDGo3FrZtmsPBH.jpg</thumb>
+    </actor>
+    <actor>
+        <name>Ghazaleh Golbakhsh</name>
+        <role>Nooshin (uncredited)</role>
+        <order>51</order>
+        <thumb></thumb>
+    </actor>
+    <actor>
+        <name>Andrew Lawrence</name>
+        <role>SAS Van Driver (uncredited)</role>
+        <order>52</order>
+        <thumb>http://image.tmdb.org/t/p/original/s0JYag0k8xwReh9s0GXSHFwOMJy.jpg</thumb>
+    </actor>
+    <actor>
+        <name>John Ramm</name>
+        <role>Tony Crabb (uncredited)</role>
+        <order>53</order>
+        <thumb>http://image.tmdb.org/t/p/original/xwod1pXGeRK4btByNJT5kSi5l8.jpg</thumb>
+    </actor>
+    <resume>
+        <position>0.000000</position>
+        <total>0.000000</total>
+    </resume>
+    <dateadded>2019-08-26 12:19:44</dateadded>
+</movie>
